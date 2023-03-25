@@ -1,0 +1,3 @@
+LeftTrigger=Resistance
+ForceLeftTrigger=(0)(1)
+RightTrigger=Choppy
