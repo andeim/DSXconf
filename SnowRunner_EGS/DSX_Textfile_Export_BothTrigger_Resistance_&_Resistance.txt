@@ -1,0 +1,4 @@
+LeftTrigger=Resistance
+ForceLeftTrigger=(4)(8)
+RightTrigger=Resistance
+ForceRightTrigger=(0)(3)
