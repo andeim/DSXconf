@@ -1,2 +1,4 @@
 # DSXconf
-DSX ggame configurations files
+DSX games configurations files
+This is my repository of config file for adaptative triggers with Dualsense.
+
